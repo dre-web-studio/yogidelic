@@ -430,3 +430,14 @@ img{max-width:100%;display:block}
       url("header-lunge-clean.png") center center / cover no-repeat;
   }
 }
+.about-side {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.about-side p {
+  max-width: 520px;
+  margin: 0 auto;
+}
